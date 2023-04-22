@@ -1,1 +1,1 @@
-# thirddz
+#написано в github
